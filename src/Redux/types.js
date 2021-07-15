@@ -1,0 +1,12 @@
+
+export const SET_FIRST_PLAYER = "SET_FIRST_PLAYER";
+
+export const SET_SECOND_PLAYER = "SET_SECOND_PLAYER";
+
+export const GAME_STARTED =  "GAME_STARTED";
+
+export const SET_SCORE_PLAYER_ONE =  "SET_SCORE_PLAYER_ONE";
+
+export const SET_SCORE_PLAYER_TWO =  "SET_SCORE_PLAYER_TWO";
+
+export const SET_X_NEXT = "SET_X_NEXT";
