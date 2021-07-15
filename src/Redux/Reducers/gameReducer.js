@@ -1,4 +1,4 @@
-import {GAME_STARTED, SET_SCORE_PLAYER_ONE, SET_SCORE_PLAYER_TWO, SET_SECOND_PLAYER, SET_X_NEXT} from "../types";
+import {GAME_STARTED, SET_SCORE_PLAYER_ONE, SET_SCORE_PLAYER_TWO, SET_X_NEXT} from "../types";
 
 const INITIAL_STATE = {
     gameStarted: false,
